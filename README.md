@@ -62,15 +62,13 @@ The **Northeast region** (e.g., Salvador) suffers the most, with delay rates rea
 ---
 
 ## 📂 Project Structure
-* `01_Data`: Cleaned datasets (Zip) and link to raw data.
+* `01_Data`: Cleaned datasets and raw data.
 * `02_Notebooks`: Python code for cleaning.
 * `03_SQL`: Analytical queries.
 * `04_Dashboard`: Power BI exports (PDF & Screenshots).
 * `05_Docs`: Full Executive Report.
 
 ---
-
-> **⚠️ Note on Data:** > Due to size limits, raw CSV files are not uploaded. You can download the full dataset from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 ### 👤 Author
 **Mohamed Gomaa**
