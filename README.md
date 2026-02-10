@@ -37,7 +37,7 @@ Retention analysis revealed:
 * **89%** of returning customers had an **On-Time** delivery experience in their first order.
 * A late first delivery almost guarantees the customer will never return.
 
-### 3. The "Bad Apple" Sellers
+### 3. The "Bad" Sellers
 
 * A small group of underperforming sellers has a delay rate of **24%**, dragging down the platform's reputation.
 
