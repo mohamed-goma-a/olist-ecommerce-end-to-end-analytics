@@ -72,4 +72,4 @@ The **Northeast region** (e.g., Salvador) suffers the most, with delay rates rea
 
 ### 👤 Author
 **Mohamed Gomaa**
-* [LinkedIn](www.linkedin.com/in/mohamed-gomaa-481780375)
+* [LinkedIn](https://www.linkedin.com/in/mohamed-gomaa-481780375)
