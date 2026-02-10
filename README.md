@@ -28,8 +28,8 @@ To solve the churn problem, I focused on answering:
 
 ### 1. The "Late Delivery" Penalty
 Data shows a drastic drop in satisfaction when orders are delayed:
-* **On-Time Orders:** Average Rating = **4.5 / 5 Stars**.
-* **Late Orders:** Average Rating drops to **2.5 / 5 Stars**.
+* **On-Time Orders:** Average Rating = **4.3 / 5 Stars**.
+* **Late Orders:** Average Rating drops to **2.6 / 5 Stars**.
 * **Impact:** Late delivery causes an immediate **40% drop** in satisfaction.
 
 ### 2. First Impressions Define Loyalty
@@ -38,7 +38,7 @@ Retention analysis revealed:
 * A late first delivery almost guarantees the customer will never return.
 
 ### 3. The "Bad Apple" Sellers
-* Top sellers maintain a delay rate under **4%**.
+
 * A small group of underperforming sellers has a delay rate of **24%**, dragging down the platform's reputation.
 
 ### 4. Regional Bottlenecks
